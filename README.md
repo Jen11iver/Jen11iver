@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jen11iver
+- 👀 I’m interested in coding and designing.
+- 🌱 I’m currently learning javascript and 3D software.
+- 💞️ I’m looking to collaborate with motion graphic disigners to make the process of animation smarter & faster. 
+- 📫 Reach me "huolongfengyi@gmail.com"
